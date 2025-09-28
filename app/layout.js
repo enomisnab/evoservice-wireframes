@@ -1,3 +1,5 @@
+import './globals.css';
+
 export const metadata = {
   title: "EvoService — Wireframes",
   description: "Wireframes low‑fi per la webapp EvoService",
